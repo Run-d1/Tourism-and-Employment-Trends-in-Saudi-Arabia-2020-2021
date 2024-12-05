@@ -13,9 +13,9 @@ This repository contains the final deliverables for a Decision Support System (D
   - `Notebooks/`: Jupyter notebooks used to extract, transform, and load the data.
   - `Outputs/`: The cleaned and transformed datasets in CSV format, ready for analysis.
 - **`Datasets/`**: Includes raw input data used for the project, such as the original datasets before transformation.
-- **`StarSchema/`**: Contains star schema diagrams for the tourism and employment datasets in PNG format.
+- **`Star_Schema/`**: Contains star schema diagrams for the tourism and employment datasets in PNG format.
 - **`Dashboards/`**: Contains PNG images of the dashboards for quick reference.
-- **`Reports/`**: The final report detailing the project's methodology and findings.
+- **`Report/`**: The final report detailing the project's methodology and findings.
 
 ## Key Performance Indicators
 ### Tourism Dataset
