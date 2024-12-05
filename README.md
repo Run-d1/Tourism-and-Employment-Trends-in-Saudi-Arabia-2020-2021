@@ -33,5 +33,5 @@ This repository contains the final deliverables for a Decision Support System (D
 5. Ratio of Saudi to non-Saudi employment.
 
 ## Technologies Used
-- **Python (Pandas, Matplotlib)**: For ETL and data transformation.
+- **Python (Pandas)**: For ETL and data transformation.
 - **Tableau**: For data visualization and dashboard creation.
