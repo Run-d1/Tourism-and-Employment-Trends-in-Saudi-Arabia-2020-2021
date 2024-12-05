@@ -1,7 +1,7 @@
-# Saudi Tourism and Employment DSS Project
+Tourism and Employment Trends in Saudi Arabia 2020-2021
 
 ## Overview
-This repository contains the final deliverables for a Decision Support System (DSS) project conducted as part of the MIS350 course at King Saud University. The project focuses on analyzing tourism and employment trends in Saudi Arabia during 2021-2022, leveraging data modeling, ETL processes, and visual analytics.
+Led a five-phase project analyzing tourism and employment trends in Saudi Arabia during 2020-2021. Prepared a project proposal, formulated a problem statement, and developed KPIs for two datasets. Designed star schemas and executed ETL processes using Python. Created visualizations in Tableau to illustrate the relationship between the datasets, providing actionable insights.
 
 ## Objectives
 - Analyze patterns and trends in tourism and employment.
