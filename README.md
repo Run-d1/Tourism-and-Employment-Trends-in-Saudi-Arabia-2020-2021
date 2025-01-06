@@ -1,4 +1,4 @@
-Tourism and Employment Trends in Saudi Arabia 2020-2021
+Tourism and Employment Trends in Saudi Arabia 2021-2022
 
 ## Overview
 Led a five-phase project analyzing tourism and employment trends in Saudi Arabia during 2020-2021. Prepared a project proposal, formulated a problem statement, and developed KPIs for two datasets. Designed star schemas and executed ETL processes using Python. Created visualizations in Tableau to illustrate the relationship between the datasets, providing actionable insights.
